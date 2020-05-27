@@ -1,0 +1,11 @@
+{
+	"name" : "com.keg.bootstrap",
+	"version" : "0.1.0",
+	"displayName" : "BootStrap",
+	"description" : "Manages intitialization, running, and access managers.",
+	"unity" : "2019.2",
+	"dependencies" : {
+        "com.keg.utils" : "0.1.3"
+	}
+}
+
