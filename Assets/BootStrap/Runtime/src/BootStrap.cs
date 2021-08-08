@@ -58,6 +58,7 @@ namespace com.keg.bootstrap
 			if( _setupStatus != SetupStatus.Failed )
 			{
 				_setupStatus = SetupStatus.Complete;
+				onSetup();
 			}
 		}
 
